@@ -1,2 +1,2 @@
-age = input(iny("age :"))
+age = input(int("age :"))
 print(age)
